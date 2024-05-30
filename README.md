@@ -1,6 +1,8 @@
-# whistle.chii
+# Whistle.Chii
 
-Whistle Chii plugin.
+
+Whistle is a plugin for [Chii](https://github.com/liriliri/chii)
+[Demo Website](chii.liriliri.io)
 
 [![NPM version][npm-image]][npm-url]
 [![Build status][ci-image]][ci-url]
@@ -14,10 +16,10 @@ Whistle Chii plugin.
 
 ## Install
 
-You can get it on npm.
+You can get it on npm
 
 ```bash
-npm install whistle.chii -g
+$ npm install whistle.chii -g --save
 ```
 
 ## Usage
